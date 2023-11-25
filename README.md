@@ -1,6 +1,6 @@
 # Proxy List
 
-[![Proxy List](https://img.shields.io/badge/Proxy%20List-339-blue)]
+![Proxy List](https://img.shields.io/badge/Proxy%20List-339-blue)
 
 Free https proxy list that is updated every 3 hours.
 
