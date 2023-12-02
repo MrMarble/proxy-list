@@ -1,13 +1,13 @@
 # Proxy List
 
-![Proxy List](https://img.shields.io/badge/Proxy%20List-174-blue)
+![Proxy List](https://img.shields.io/badge/Proxy%20List-160-blue)
 
 Free https proxy list that is updated every 1 hour.
 
-- Total Proxies: `174`
-- Average Proxy Latency: `3.984s`
-- Countries: `39`
-- Last Updated: `Sat Dec  2 14:27:23 UTC 2023`
+- Total Proxies: `160`
+- Average Proxy Latency: `3.6s`
+- Countries: `37`
+- Last Updated: `Sat Dec  2 15:27:08 UTC 2023`
 
 > If you like this project, please star it on GitHub to show your support! 🌟
 >
