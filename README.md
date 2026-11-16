@@ -1,22 +1,22 @@
 # Proxy List
 
-![Proxy List](https://img.shields.io/badge/Proxy%20List-2200-blue)
+![Proxy List](https://img.shields.io/badge/Proxy%20List-2185-blue)
 
 Free proxy lists, checked regularly. Only proxies that passed their latest check are published.
 
-- Total Proxies: `2200`
-- Average Proxy Latency: `2.232s`
-- Countries: `107`
-- Last Updated: `Mon Nov 16 09:27:43 UTC 2026`
+- Total Proxies: `2185`
+- Average Proxy Latency: `2.25s`
+- Countries: `106`
+- Last Updated: `Mon Nov 16 10:27:30 UTC 2026`
 
 ## By protocol
 
 | Protocol | Proxies | Avg latency | List |
 | -------- | ------: | ----------: | ---- |
-| http | 306 | 3.63s | [http.txt](http.txt) |
-| https | 1428 | 1.429s | [https.txt](https.txt) |
-| socks4 | 142 | 2.418s | [socks4.txt](socks4.txt) |
-| socks5 | 324 | 4.369s | [socks5.txt](socks5.txt) |
+| http | 328 | 3.689s | [http.txt](http.txt) |
+| https | 1409 | 1.418s | [https.txt](https.txt) |
+| socks4 | 153 | 2.42s | [socks4.txt](socks4.txt) |
+| socks5 | 295 | 4.537s | [socks5.txt](socks5.txt) |
 
 [all.csv](all.csv) has every proxy with its country, average latency in ms, success rate (%) and number of checks, so you can filter for fast or stable ones.
 
@@ -24,16 +24,16 @@ Free proxy lists, checked regularly. Only proxies that passed their latest check
 
 | Country | Proxies |
 | ------- | ------: |
-| US | 460 |
-| NL | 352 |
-| DE | 105 |
-| ID | 89 |
-| CA | 74 |
+| US | 439 |
+| NL | 323 |
+| DE | 104 |
+| ID | 91 |
+| CA | 73 |
+| IN | 71 |
 | FR | 66 |
-| IN | 60 |
-| RO | 54 |
-| SG | 54 |
-| GB | 53 |
+| RO | 55 |
+| SG | 55 |
+| GB | 52 |
 
 > If you like this project, please star it on GitHub to show your support! 🌟
 >
