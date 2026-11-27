@@ -7,7 +7,7 @@ Free proxy lists, checked regularly. Only proxies that passed their latest check
 - Total Proxies: `2523`
 - Average Proxy Latency: `2.197s`
 - Countries: `109`
-- Last Updated: `Fri Nov 27 02:26:26 UTC 2026`
+- Last Updated: `Fri Nov 27 03:26:27 UTC 2026`
 
 ## By protocol
 
